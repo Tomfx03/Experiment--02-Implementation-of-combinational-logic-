@@ -26,7 +26,9 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ![Screenshot 2023-07-20 094121](https://github.com/Tomfx03/Experiment--02-Implementation-of-combinational-logic-/assets/101335832/eda421c0-0141-499c-99bd-76ca84b60aad)
 
 ## Output:
-![Screenshot 2023-07-20 094201](https://github.com/Tomfx03/Experiment--02-Implementation-of-combinational-logic-/assets/101335832/4fecfb01-1667-4d44-a301-ba73e42de337)
+![Screenshot 2023-07-20 095538](https://github.com/Tomfx03/Experiment--02-Implementation-of-combinational-logic-/assets/101335832/b1dfb061-65ea-45a5-9b71-62711158b4d6)
+
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
